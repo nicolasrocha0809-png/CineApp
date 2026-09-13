@@ -24,7 +24,7 @@ Foram implementados todos os desafios bônus propostos na atividade:
 - React Navigation
 - AsyncStorage
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
