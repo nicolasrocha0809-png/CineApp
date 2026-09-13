@@ -24,12 +24,10 @@ Foram implementados todos os desafios bônus propostos na atividade:
 - React Navigation
 - AsyncStorage
 
-## Como executar o projeto
-
-1. Clone o repositório:
+## Como executar o projeto:
 
 ```bash
-git clone [LINK DO REPOSITÓRIO]
+git clone 
 
 cd cineapp
 
