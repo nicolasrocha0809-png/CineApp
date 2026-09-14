@@ -34,3 +34,4 @@ cd cineapp
 npm install
 
 npx expo start
+(Se não funcionar utilize npm install -g ngrok e depois npx expo start --tunnel)
